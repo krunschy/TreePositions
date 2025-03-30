@@ -201,6 +201,9 @@ void processTreesAndDistances(vector<Tree>& knownTrees, vector<Tree>& unknownTre
         cout << "adding failcount" << endl;
         processTreesAndDistances(knownTrees, unknownTrees, distances, failcount + 1);
     } else {
+
+        //this entire thing can be repeated with involved Trees[1] und [2] etc if this doesnt yield a intersection
+
         // Find the actual Tree objects for involvedTrees[0] and involvedTrees[1]
         Tree TreeA, TreeB;
         for (const auto& tree : knownTrees) {

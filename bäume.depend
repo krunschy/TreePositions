@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1743333634 source:c:\users\krunschy\desktop\fprog\bäume\main.cpp
+	<iostream>
+	<vector>
+	<sstream>
+	<iomanip>
+	<cmath>
+

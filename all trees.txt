@@ -1,0 +1,70 @@
+6  15.0  13.0  6: PrinzA
+7  1.5  16.0  7: Ribisel …
+8  2.0  16.0  8: Ecke Garten
+9  11.0  16.0  9: Ecke Garten
+10  1.5  17.5  10: Rib … 
+11  1.5  19.0  11: Rib … 
+12  26.0  20.0  12: Mauntz
+13  1.5  20.5  13: Rib … 
+14  1.5  22.0  14: Rib … 
+15  33.0  22.0  15: Daniels Ren.
+16  40.0  23.0  16: Dirndl 
+17  1.5  24.0  17: Rib … 
+18  2.0  24.0  18: Ecke Garten
+19  11.0  24.0  19: Ecke Garten
+20  40.0  27.0  20: ?? Apfel erholt
+21  65.0  27.0  21: Scheune: Odenwälder
+22  46.0  28.0  22: Birne alt
+23  3.0  29.0  23: Birne alt
+24  14.0  29.0  24: Walnuss Best.
+25  67.0  37.0  25: Birne alt,klein
+26  4.0  38.0  26: Birne alt
+27  15.0  36.0  27: Gelbe HausZw.
+28  49.0  38.0  28: Eibesw.KönRen.
+29  58.0  38.0  29: Birne alt
+30  75.0  40.0  30: Hauskante
+31  84.0  40.0  31: Hauskante
+32  21.0  43.0  32: ??
+33  80.0  45.0  33: Pfarr. Kapp
+34  87.0  45.0  34: Hirschholler
+35  15.0  46.0  35: Gois.Led.
+36  3.5  47.0  36: Birne alt
+37  62.0  48.0  37: Rotbl. Zellernuß
+38  74.0  48.0  38: Gastank
+39  70.0  49.0  39: früher: Nussbaum alt 
+40  37.0  50.0  40: Renette - B
+41  45.0  50.0  41: Rodaun.GoldA
+42  53.0  50.0  42: Rhein. Krumm
+43  60.0  50.0  43: Tir. Spätblüher
+44  90.0  51.0  44: Haschb
+45  75.0  55.0  45: Kriech91
+46  87.0  55.0  46: Kriech91
+47  4.0  57.0  47: Apf.-Best.
+48  10.0  57.0  48: Gewürzluik.
+49  17.0  57.0  49: Bosk
+50  6.0  62.0  50: Renette - A
+51  0.0  65.0  51: Ki-Bestand
+52  17.0  66.0  52: Edelramb.Winnitza
+53  27.0  66.0  53: ??
+54  54.0  66.0  54: Birne alt
+55  0.0  70.0  55: Fichte
+56  87.0  72.0  56: Ha: Rote Zellern.
+57  20.0  76.0  57: Erle
+58  87.0  76.0  58: Nottingh.
+59  29.0  77.0  59: Waldv.Kr
+60  41.0  77.0  60: Chrysofsker ??? 
+61  50.0  78.0  61: Palabirne/weg
+62  57.0  78.0  62: Tilgen.Kir
+63  87.0  80.0  63: Has. Webbs Preisnuss
+64  45.0  83.0  64: Ital. Zw
+65  0.0  84.0  65: Ecke Zaun 
+66  17.0  84.0  66: Alt: Riesenboiken
+67  92.0  83.0  67: Has. Kaiserin Eugenie
+68  33.0  85.0  68: Pohls Schlotterapfel
+69  64.0  85.0  69: Birne alt
+70  50.0  58.0  70: Landsb. Re
+71  50.0  66.0  71: Dam.Re
+72  0.0  0.0  72: 
+73  0.0  0.0  73: Zig.A
+74  0.0  0.0  74: Kuchlw.
+75  5.0  11.0  75: Detvan
